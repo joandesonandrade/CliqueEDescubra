@@ -1,0 +1,9 @@
+{
+  "accept": "application/json",
+  "app-version": "5.0.0",
+  "client": "Android | sdk 23",
+  "authorization": ["502b05167ec30d6b7ff5d69f3c8938d1","542216482dafd973d6318d2e1db2100b","7a3da5944d441d774bccc765013efba6"],
+  "Host": "mobile-api.passeidireto.com",
+  "Accept-Encoding": "gzip, deflate",
+  "User-Agent": "okhttp/3.10.0"
+}

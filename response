@@ -1,0 +1,167 @@
+---------------------------
+download do documento
+---------------------------
+https://d1xfob7penf69z.cloudfront.net/762a9888-a65d-4af4-9df8-ede4ef5a897e?response-content-disposition=attachment%3bfilename%3d%22358906104%20Boulos%20Geometria%20Analitica%20Um%20Tratamento%20Vetorial%203%20Ed%20pdf.pdf%22&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMXhmb2I3cGVuZjY5ei5jbG91ZGZyb250Lm5ldC83NjJhOTg4OC1hNjVkLTRhZjQtOWRmOC1lZGU0ZWY1YTg5N2U~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNiZmlsZW5hbWUlM2QlMjIzNTg5MDYxMDQlMjBCb3Vsb3MlMjBHZW9tZXRyaWElMjBBbmFsaXRpY2ElMjBVbSUyMFRyYXRhbWVudG8lMjBWZXRvcmlhbCUyMDMlMjBFZCUyMHBkZi5wZGYlMjIiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1NTQwMDA2MDd9fX1dfQ__&Signature=fE4SYa2ieq791jz4AAZUhMQKhjp20PmOyWDc2XBEEwn5~dhfXdhNadZdlHekQfpJuB3CRbJhAgkmzZ4Ik~Yx4WiGm0f~8UGHdCUxGYrwb~dQNWxZ~A~ks19y9fIITZa1ybOU3g6sd2CxH0YoZg~3CwxNKoIknyaxDvWpQweZBwgQgKBR9hSwhN5xOPLbks0OowpPpyq3Q2G9eCEQVjoc14pIvG5aISzBGoMjQDX01Q8EAr-pRQUEA9pXHu-slSwrPhwRYB6hArFNE3z3FfcktfuhW5kBWHpc-pRyEaE-W3I8IVjBiSIFrkegXAVuhhVPwwT52q4SufrFTiuBbRRp-w__&Key-Pair-Id=APKAJ34U4G2RXXGSCXJQ
+
+
+---------------------------
+visualização do documento
+---------------------------
+{
+"Id":37025406,
+"Name":"358906104 Boulos Geometria Analitica Um Tratamento Vetorial 3 Ed pdf",
+"Deleted":false,
+"Description":null,
+"Extension":".pdf",
+"Size":103186035,
+"CategoryId":13,
+"CategoryName":"Outros",
+"ProcessingStatus":1,
+"PreviewPageCount":2,
+"ViewTotal":4276,
+"Date":"2017-11-22T16:08:14.000Z",
+"CommentsCount":0,
+"HasThumbnail":1,
+"IndexingStatus":4,
+"FileUrl":"762a9888-a65d-4af4-9df8-ede4ef5a897e",
+"Download":{
+    "Popularity":0,
+    "Guid":"762a9888-a65d-4af4-9df8-ede4ef5a897e",
+    "Total":0
+    },
+"Evaluation":{
+    "UserEvaluation":0,
+    "EvaluationsAmount":68,
+    "PositiveEvaluations":66,
+    "Total":64
+    },
+"Author":{
+    "Id":18532851,
+    "Name":"Kaio",
+    "ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/profile-default.gif",
+    "Active":null,
+    "Course":null,
+    "University":null
+    },
+"Subject":{
+    "Id":669662,
+    "Name":"Geometria Analítica",
+    "Alias":"geometria-analitica"
+    },
+"AuthorUniversity":{
+    "Id":663528,
+    "Name":"Universidade Federal Rural de Pernambuco",
+    "ShortName":"UFRPE",
+    "Type":"UN"
+    },
+"FilePreviewData":{
+    "Id":1834281,
+    "FileId":37025406,
+    "FolderUrl":"762a9888-a65d-4af4-9df8-ede4ef5a897e",
+    "PageCount":558,
+    "Status":5
+    },
+"Tags":[
+    {
+        "Id":3906,
+        "Name":"Geometria-Analitica"
+        },
+    {
+        "Id":12823,
+        "Name":"UFRPE"
+    },
+    {
+        "Id":72505,
+        "Name":"cabo"
+    },
+    {
+        "Id":502444,
+        "Name":"Carlindo"
+    },
+    {
+        "Id":502445,
+        "Name":"UACSA"
+    }
+    ],
+"PreviewTestType":0,
+"Contents":{
+    "Tbs":[
+        {
+            "Title":"Vetores e Geometria Analítica - 2ª Ed. 2014",
+            "Authors":"Paulo Winterle",
+            "CoverUrl":"https://resources.passeidireto.com/tbs/covers/9788543002392.png",
+            "Ean":"9788543002392"
+        }
+}
+}
+}
+
+---------------------------
+lista de documentos
+---------------------------
+{
+"Id":37025406,
+"Name":"358906104 Boulos Geometria Analitica Um Tratamento Vetorial 3 Ed pdf",
+"Type":6,
+"Extension":".pdf",
+"FileUrl":"762a9888-a65d-4af4-9df8-ede4ef5a897e",
+"HasThumbnail":1,
+"IsOnStudentList":false,
+"CommentsTotal":0,
+"Evaluation":{
+    "EvaluationTotal":64,
+    "UserEvaluation":0
+    },
+"Author":{
+    "Id":18532851,
+    "Name":"Kaio",
+    "ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/profile-default.gif",
+    "UniversityShortName":"UFRPE"
+    },
+"FilePreview":{
+    "Id":1834281,
+    "FileId":37025406,
+    "FolderUrl":"762a9888-a65d-4af4-9df8-ede4ef5a897e",
+    "PageCount":558,
+    "Status":5
+    },
+"Subject":{
+    "Id":669662,
+    "Name":"Geometria Analítica",
+    "Alias":"geometria-analitica"
+    },
+"Tags":[
+    {
+    "Id":3906,
+    "Name":"Geometria-Analitica"
+    },
+    {
+    "Id":12823,
+    "Name":"UFRPE"
+    }
+}
+}
+
+
+--------------------------------
+lista de busca
+--------------------------------
+{
+"Type":"subject",
+"Id":669744,
+"Score":13.1244545,
+"NormalizedScore":0.3281113625,
+"Name":"<highlight>Cálculo</highlight> <highlight>II</highlight>",
+"FollowerCount":475654,
+"MaterialCount":11323,
+"Alias":"calculo-ii",
+"IsFollowing":true,
+"SpecificFollowerCount":2320,
+"SpecificMaterialCount":46,
+"Followers":[
+        {"Id":63726431,
+            "Name":"Bitola",
+            "ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63726431/google_400_1554177504.png","FacebookId":null,"Active":false,"UniversityName":"UFU","CourseName":"Engenharia Civil"},{"Id":47835559,"Name":"Ciciany","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/47835559/facebook_400_1536686890.jpeg","FacebookId":null,"Active":false,"UniversityName":"UEG","CourseName":"Matemática"},{"Id":63726107,"Name":"Magdiel","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63726107/facebook_400_1554176769.jpeg","FacebookId":null,"Active":false,"UniversityName":"UTFPR","CourseName":"Engenharia Química"},{"Id":63726082,"Name":"Fábio","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63726082/facebook_400_1554176722.jpeg","FacebookId":null,"Active":false,"UniversityName":"UNIP","CourseName":"Engenharia Mecânica"},{"Id":63725806,"Name":"Lázaro","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725806/google_400_1554176141.jpeg","FacebookId":null,"Active":false,"UniversityName":"FMU","CourseName":"Engenharia Elétrica"},{"Id":63725933,"Name":"furmigamg","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725933/google_400_1554176402.jpeg","FacebookId":null,"Active":false,"UniversityName":"IFMG","CourseName":"Engenharia Mecânica"},{"Id":63725870,"Name":"Jose Eduardo","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725870/google_400_1554176274.png","FacebookId":null,"Active":false,"UniversityName":"Anhanguera","CourseName":"Engenharia Elétrica"},{"Id":63725771,"Name":"Igor","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725771/google_400_1554176075.png","FacebookId":null,"Active":false,"UniversityName":"UNIFEI","CourseName":"Engenharia Civil"},{"Id":63725715,"Name":"Mateus","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725715/facebook_400_1554175942.jpeg","FacebookId":null,"Active":false,"UniversityName":null,"CourseName":null},{"Id":63725511,"Name":"Rodrigo","ImageUrl":"https://resources.passeidireto.com/core/student_profile_images/63725511/google_400_1554175604.png","FacebookId":null,"Active":false,"UniversityName":"FATEC","CourseName":"Engenharia Mecânica"
+        }
+    ]
+}

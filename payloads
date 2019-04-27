@@ -1,0 +1,81 @@
+-------------------------------
+download do documento
+-------------------------------
+GET /file/download?fileId=60448067&fileGuid=3e8a3ac0-5770-4c64-9682-4bad920a7c94&useCloudFront=true HTTP/1.1
+accept: application/json
+app-version: 5.2.2
+client: Android | sdk 23
+authorization: 24243d7bbf9c603c662a2b7ea9d687e0
+Host: mobile-api.passeidireto.com
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+-------------------------------
+visualização do documento
+-------------------------------
+GET /file/60448067 HTTP/1.1
+accept: application/json
+app-version: 5.2.2
+client: Android | sdk 23
+authorization: 24243d7bbf9c603c662a2b7ea9d687e0
+Host: mobile-api.passeidireto.com
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+--------------------------------
+lista de documentos
+--------------------------------
+GET /subjects/685244/recommended-materials?page=0&size=10&types[]=6 HTTP/1.1
+accept: application/json
+app-version: 5.2.2
+client: Android | sdk 23
+authorization: 24243d7bbf9c603c662a2b7ea9d687e0
+Host: mobile-api.passeidireto.com
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+--------------------------------
+lista de busca
+--------------------------------
+GET /subject/search?q=C%C3%A1lculo+ii&page=0&count=16&suggestQuery=true&order=1&populateFollowers=true&populateUniversityCount=true&highlightPreTag=%3Chighlight%3E&highlightPostTag=%3C%2Fhighlight%3E HTTP/1.1
+accept: application/json
+app-version: 5.2.2
+client: Android | sdk 23
+authorization: 24243d7bbf9c603c662a2b7ea9d687e0
+Host: mobile-api.passeidireto.com
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+
+--------------------------------
+buscando listas
+--------------------------------
+OPTIONS /api/subjects/669699/recommended-materials?types[]=6&types[]=10&page=2&size=10 HTTP/1.1
+Host: material-aggregator-api.passeidireto.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: authorization
+Referer: https://www.passeidireto.com/disciplina/calculo-i?ordem=3
+Origin: https://www.passeidireto.com
+Connection: close
+
+OPTIONS /api/Material/BrowseBySubject?subjectId=669699&pageNumber=1&pageSize=10 HTTP/1.1
+Host: api.passeidireto.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: authorization
+Referer: https://www.passeidireto.com/disciplina/calculo-i?ordem=3
+Origin: https://www.passeidireto.com
+Connection: close
+
+
